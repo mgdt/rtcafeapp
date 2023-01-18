@@ -71,4 +71,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: "#EF473A",
   },
+  helloWorld: {
+    fontSize: 15,
+  },
 });
