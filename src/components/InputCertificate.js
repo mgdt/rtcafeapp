@@ -73,5 +73,6 @@ const styles = StyleSheet.create({
   },
   helloWorld: {
     fontSize: 15,
+    width: 20,
   },
 });
